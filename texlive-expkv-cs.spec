@@ -1,6 +1,6 @@
 Name:		texlive-expkv-cs
 Version:	62003
-Release:	1
+Release:	2
 Summary:	Define expandable key=val macros using expkv
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expkv-cs
