@@ -3,7 +3,7 @@ Version:	62003
 Release:	2
 Summary:	Define expandable key=val macros using expkv
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expkv-cs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/expkv-cs
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expkv-cs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expkv-cs.doc.r%{version}.tar.xz
